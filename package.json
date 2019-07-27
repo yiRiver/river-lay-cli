@@ -1,0 +1,25 @@
+{
+    "name": "river-lay-cli",
+    "version": "1.0.0",
+    "description": "river-lay cli",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yiRiver/river-lay-cli.git"
+    },
+    "keywords": [
+        "river-lay-cli"
+    ],
+    "author": "dzl",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yiRiver/river-lay-cli/issues"
+    },
+    "homepage": "https://github.com/yiRiver/river-lay-cli#readme",
+    "dependencies": {
+        "river-lay": "^1.0.8"
+    }
+}
